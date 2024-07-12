@@ -1,0 +1,28 @@
+{
+  "Nixtla": [
+    {
+      "name": ".github",
+      "fullName": "Nixtla/.github",
+      "defaultBranch": "main",
+      "stargazersCount": 0
+    },
+    {
+      "name": "hierarchicalforecast-sparse",
+      "fullName": "Nixtla/hierarchicalforecast-sparse",
+      "defaultBranch": "main",
+      "stargazersCount": 1
+    },
+    {
+      "name": "mlforecast",
+      "fullName": "Nixtla/mlforecast",
+      "defaultBranch": "main",
+      "stargazersCount": 668
+    },
+    {
+      "name": "statsforecast",
+      "fullName": "Nixtla/statsforecast",
+      "defaultBranch": "main",
+      "stargazersCount": 3393
+    }
+  ]
+}

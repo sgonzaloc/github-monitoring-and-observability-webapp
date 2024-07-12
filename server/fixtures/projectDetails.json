@@ -1,0 +1,97 @@
+{
+  "Nixtla/.github": {
+    "type": "Other"
+  },
+  "Nixtla/blog": {
+    "type": "Other"
+  },
+  "Nixtla/coreforecast": {
+    "type": "Other"
+  },
+  "Nixtla/dashcon-2020-all-your-queues": {
+    "type": "Other"
+  },
+  "Nixtla/datasetsforecast": {
+    "type": "Other"
+  },
+  "Nixtla/docs": {
+    "type": "Other"
+  },
+  "Nixtla/driverlessai-recipe": {
+    "type": "Other"
+  },
+  "Nixtla/fpp3-python": {
+    "type": "Other"
+  },
+  "Nixtla/gluonts-hierarchical-ICML-2021": {
+    "type": "Other"
+  },
+  "Nixtla/hierarchicalforecast": {
+    "type": "Python",
+    "pipName": "hierarchicalforecast"
+  },
+  "Nixtla/hierarchicalforecast-sparse": {
+    "type": "Python",
+    "pipName": "hierarchicalforecast"
+  },
+  "Nixtla/how-to-contribute-nixtlavers": {
+    "type": "Other"
+  },
+  "Nixtla/Informer2020": {
+    "type": "Other"
+  },
+  "Nixtla/m4-forecasts": {
+    "type": "Other"
+  },
+  "Nixtla/m5-forecasts": {
+    "type": "Other"
+  },
+  "Nixtla/methodologies": {
+    "type": "Other"
+  },
+  "Nixtla/mlforecast": {
+    "type": "Python",
+    "pipName": "mlforecast"
+  },
+  "Nixtla/neuralforecast": {
+    "type": "Python",
+    "pipName": "neuralforecast"
+  },
+  "Nixtla/nixtla": {
+    "type": "Other"
+  },
+  "Nixtla/nixtla-commons": {
+    "type": "Other"
+  },
+  "Nixtla/nixtlar": {
+    "type": "Other"
+  },
+  "Nixtla/nixtlats": {
+    "type": "Other"
+  },
+  "Nixtla/nixtlaverse-issue-template": {
+    "type": "Other"
+  },
+  "Nixtla/popol-vuh": {
+    "type": "Other"
+  },
+  "Nixtla/public-slides": {
+    "type": "Other"
+  },
+  "Nixtla/statsforecast": {
+    "type": "Python",
+    "pipName": "statsforecast"
+  },
+  "Nixtla/styles": {
+    "type": "Other"
+  },
+  "Nixtla/timegpt-forecaster-streamlit": {
+    "type": "Other"
+  },
+  "Nixtla/transfer-learning-time-series": {
+    "type": "Other"
+  },
+  "Nixtla/tsfeatures": {
+    "type": "Other"
+  }
+}
