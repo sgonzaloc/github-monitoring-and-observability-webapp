@@ -69,7 +69,7 @@ i near future), and forecasts for stars and downloads
 
 ### There's a lot of extra tech details. For more details, please read about:
 * [Github Monitor App README](app/README.md)
-* [Github Monitor Backend README](app/README.md)
+* [Github Monitor Backend README](server/README.md)
 
 ## Github Monitor & Observability
 
