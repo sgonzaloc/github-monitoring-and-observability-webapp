@@ -7,6 +7,28 @@
     </h3>
 </div>
 
+---
+### Frontend (App)
+![React](https://img.shields.io/badge/React-18.2.0-61DAFB?logo=react&logoColor=white)
+![React-DOM](https://img.shields.io/badge/React--DOM-18.2.0-61DAFB)
+![Redux](https://img.shields.io/badge/Redux-9.1.0-764ABC?logo=redux&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux--Toolkit-2.2.1-764ABC?logo=redux&logoColor=white)
+![Redux-Saga](https://img.shields.io/badge/Redux--Saga-1.3.0-764ABC)
+![MUI](https://img.shields.io/badge/MUI-5.15.10-007FFF?logo=mui&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-4.4.1-F9A03C?logo=chart.js&logoColor=white)
+![React Chart.js 2](https://img.shields.io/badge/React--Chart.js--2-5.2.0-F9A03C)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+### Backend (Server)
+![Node.js](https://img.shields.io/badge/Node-18.17.1-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-4.18.2-000000?logo=express&logoColor=white)
+![Dotenv](https://img.shields.io/badge/Dotenv-16.4.4-000000)
+![Date-fns](https://img.shields.io/badge/Date--fns-3.3.1-ff7f50)
+![Lodash](https://img.shields.io/badge/Lodash-4.17.21-3498db)
+![Body-Parser](https://img.shields.io/badge/Body--Parser-1.20.2-ff69b4)
+![CORS](https://img.shields.io/badge/CORS-2.8.5-61DAFB)
+![UUID](https://img.shields.io/badge/UUID-9.0.1-6f42c1)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
