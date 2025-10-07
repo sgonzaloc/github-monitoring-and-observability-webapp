@@ -8,7 +8,16 @@
     </h3>
 </div>
 
-
+---
+![Node.js](https://img.shields.io/badge/Node-18.17.1-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-4.18.2-000000?logo=express&logoColor=white)
+![Dotenv](https://img.shields.io/badge/Dotenv-16.4.4-000000)
+![Date-fns](https://img.shields.io/badge/Date--fns-3.3.1-ff7f50)
+![Lodash](https://img.shields.io/badge/Lodash-4.17.21-3498db)
+![Body-Parser](https://img.shields.io/badge/Body--Parser-1.20.2-ff69b4)
+![CORS](https://img.shields.io/badge/CORS-2.8.5-61DAFB)
+![UUID](https://img.shields.io/badge/UUID-9.0.1-6f42c1)
+![License](https://img.shields.io/badge/License-MIT-green)
 ---
 
 ## Installation
