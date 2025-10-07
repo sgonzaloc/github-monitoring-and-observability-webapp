@@ -7,9 +7,18 @@
     </h3>
 </div>
 
+---
+![React](https://img.shields.io/badge/React-18.2.0-61DAFB?logo=react&logoColor=white)
+![React-DOM](https://img.shields.io/badge/React--DOM-18.2.0-61DAFB)
+![Redux](https://img.shields.io/badge/Redux-9.1.0-764ABC?logo=redux&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux--Toolkit-2.2.1-764ABC?logo=redux&logoColor=white)
+![Redux-Saga](https://img.shields.io/badge/Redux--Saga-1.3.0-764ABC)
+![MUI](https://img.shields.io/badge/MUI-5.15.10-007FFF?logo=mui&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-4.4.1-F9A03C?logo=chart.js&logoColor=white)
+![React Chart.js 2](https://img.shields.io/badge/React--Chart.js--2-5.2.0-F9A03C)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
-
 ## Installation
 
     npm install
