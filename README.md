@@ -19,6 +19,10 @@
 ![React Chart.js 2](https://img.shields.io/badge/React--Chart.js--2-5.2.0-F9A03C)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+> 📝 **Frontend README**  
+> Provides deeper technical details on the features described below
+> Check it here: **[Frontend README](app/README.md)**
+
 ### Backend (Server)
 ![Node.js](https://img.shields.io/badge/Node-18.17.1-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-4.18.2-000000?logo=express&logoColor=white)
@@ -29,6 +33,10 @@
 ![CORS](https://img.shields.io/badge/CORS-2.8.5-61DAFB)
 ![UUID](https://img.shields.io/badge/UUID-9.0.1-6f42c1)
 ![License](https://img.shields.io/badge/License-MIT-green)
+
+> 📝 **Backend README**  
+> Provides deeper technical details on the features described below.
+> Check it here: **[Backend README](server/README.md)**
 
 ---
 
@@ -86,12 +94,6 @@ i near future), and forecasts for stars and downloads
 - [ ] Add option to be able to save chart images and download it
 - [ ] Support downloads from npm packages and get statistics
 - [ ] Identify if it's an npm package automatically, as is made with python packages
-
-## More features details
-
-### There's a lot of extra tech details. For more details, please read about:
-* [Github Monitor App README](app/README.md)
-* [Github Monitor Backend README](server/README.md)
 
 ## Github Monitor & Observability
 
